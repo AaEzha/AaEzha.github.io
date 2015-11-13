@@ -1,0 +1,5 @@
+---
+layout: default
+---
+<h1 class="title">{{ page.title }} <small><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></small></h1>
+{{ content }}
