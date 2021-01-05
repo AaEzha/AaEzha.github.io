@@ -31,6 +31,7 @@ Adapun rupa-rupa jasanya, seperti ini:
 - Java (Basic)
 - Haskell (Basic)
 
-###Harga?
+### Harga
 Mulai dari `1 juta` untuk Web Programming sampai tak terhingga.
+
 Mulai dari `150 ribu` per jam untuk Mentoring 1-on-1. Ambil paket 4 pertemuan atau 8 jam, lebih murah!
