@@ -28,7 +28,10 @@ Buat Rule baru
 
 ### Langkah kedua
 
-Lalu, pada function <mark>passes()</mark>, buat menjadi seperti ini:
+Kemudian buka file yang baru dibuat tadi. Seharusnya ada di lokasi `app\Rules\FloatValidator.php`.
+
+Lalu, silahkan ditulis menjadi seperti ini:
+
 ```
 public function passes($attribute, $value)
 {
