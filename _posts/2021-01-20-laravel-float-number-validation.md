@@ -32,7 +32,7 @@ Kemudian buka file yang baru dibuat tadi. Seharusnya ada di lokasi `app\Rules\Fl
 
 Lalu, silahkan ditulis menjadi seperti ini:
 
-```
+```php
 public function passes($attribute, $value)
 {
     return is_float($value + 0);
@@ -48,7 +48,7 @@ public function message()
 
 Pada controller, tinggal tambahkan validasimu.
 
-```
+```php
 use App\Rules\FloatValidator;
 
 ...
