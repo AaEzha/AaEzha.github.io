@@ -32,7 +32,7 @@ Kemudian buka file yang baru dibuat tadi. Seharusnya ada di lokasi `app\Rules\Fl
 
 Lalu, silahkan ditulis menjadi seperti ini:
 
-```php
+{% highlight php %}
 public function passes($attribute, $value)
 {
     return is_float($value + 0);
@@ -42,13 +42,13 @@ public function message()
 {
     return 'Harus bentuk float.';
 }
-```
+{% endhighlight %}
 
 ### Langkah ketiga
 
 Pada controller, tinggal tambahkan validasimu.
 
-```php
+{% highlight php %}
 use App\Rules\FloatValidator;
 
 ...
@@ -61,6 +61,6 @@ public function store(Request $request)
 
     return $request->angka;
 }
-```
+{% endhighlight %}
 
 Nah, kira-kira begitu sih kalau mau membuat validasi untuk floating number atau mau membuat validasi sendiri.
