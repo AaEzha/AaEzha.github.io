@@ -3,7 +3,6 @@ layout: post
 title: Auto Created dan Updated field
 subtitle: created_at & updated_at otomatis
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [sql, tips]
 ---
