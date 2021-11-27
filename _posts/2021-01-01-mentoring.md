@@ -5,8 +5,6 @@ date:   2021-01-01 00:58:58 +0700
 categories: blog
 ---
 
-Assalamualaikum warahmatullahi wabarakatuh
-
 Perkenalkan, aku Reza Nurfachmi, biasa dipanggil `aa` oleh teman-teman (kamu juga harus begitu). Aku adalah seorang pekerja lepas penuh waktu (full-time freelancer) dalam bidang `Pemrograman` dan `Program Mentoring`.
 
 Kalau butuh seseorang untuk membuat sebuah website atau mentor pemrograman, kamu boleh hubungi aku lewat email `rezanurfachmi@gmail.com`.

@@ -5,8 +5,6 @@ date:   2021-01-20 15:44:58 +0700
 categories: blog
 ---
 
-Assalamualaikum warahmatullahi wabarakatuh
-
 Ini adalah salah satu pertanyaan dari grup diskusi WhatsApp yang aku kelola, grup khusus membahas Laravel tapi gak menutup untuk membahas hal lain selagi masih berhubungan dengan teknologi atau pemrograman berbasis web.
 
 Jadi, pertanyaannya adalah bagaimana membuat validasi input dalam form yang mengharuskan orang itu mengisi dalam bentuk float seperti 0.5, 18.8, dan sejenisnya?
