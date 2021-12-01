@@ -15,7 +15,7 @@ author: Reza Nurfachmi
 
 navbar-links:
   About Me: "aboutme"
-  FOSS:
+  Open Source Projects:
     - Laravel + SB Admin 2: "https://github.com/AaEzha/Laravel---SB-Admin-2---Fortify"
     - Laravel + AdminLTE 3: "https://github.com/AaEzha/Laravel---AdminLTE-3---Fortify"
     - CodeIgniter 3 + SB Admin 2: "https://github.com/AaEzha/ci3-sbadmin2"
