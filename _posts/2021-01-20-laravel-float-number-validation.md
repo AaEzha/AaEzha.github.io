@@ -46,7 +46,7 @@ public function message()
 
 Pada controller, tinggal tambahkan validasimu.
 
-{% highlight php %}
+```php
 use App\Rules\FloatValidator;
 
 ...
@@ -59,6 +59,6 @@ public function store(Request $request)
 
     return $request->angka;
 }
-{% endhighlight %}
+```
 
 Nah, kira-kira begitu sih kalau mau membuat validasi untuk floating number atau mau membuat validasi sendiri.
