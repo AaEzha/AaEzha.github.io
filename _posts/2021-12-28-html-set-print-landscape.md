@@ -8,7 +8,7 @@ thumbnail-img: /assets/img/html.jpg
 tags: [html, css, tips]
 ---
 
-Sebagai Back-End Developer, saya sering mendapatkan kasus untuk mencetak sesuatu seperti *invoice*, *purchase order*, dan lain sebagainya. Secara *default*, bawaan dari browser saat ingin mencetak sesuatu adalah halamannya diset sebagai potrait. Bagaimana kalau ingin langsung *landscape* saat ingin mencetak?
+Sebagai Back-End Developer, saya sering mendapatkan kasus untuk mencetak sesuatu seperti *invoice*, *purchase order*, dan lain sebagainya. Secara *default*, bawaan dari browser saat ingin mencetak sesuatu adalah halamannya diset sebagai ***portrait***. Bagaimana kalau ingin langsung *landscape* saat ingin mencetak?
 
 Ternyata setelah *googling* sana-sini, solusinya mudah saja. Cukup sematkan barisan CSS ini pada HTML kita.
 
