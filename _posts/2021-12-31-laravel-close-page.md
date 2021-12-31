@@ -3,8 +3,8 @@ layout: post
 title: "Laravel Close Page"
 subtitle: Aa Ezha
 cover-img: /assets/img/path.jpg
-share-img: /assets/img/php.jpg
-thumbnail-img: /assets/img/php.jpg
+share-img: /assets/img/php.svg
+thumbnail-img: /assets/img/php.svg
 tags: [php, tips]
 ---
 
