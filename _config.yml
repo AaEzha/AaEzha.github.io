@@ -15,12 +15,12 @@ author: Reza Nurfachmi
 
 navbar-links:
   About Me: "aboutme"
-  Open Source Projects:
-    - Laravel + SB Admin 2: "https://github.com/AaEzha/Laravel---SB-Admin-2---Fortify"
-    - Laravel + AdminLTE 3: "https://github.com/AaEzha/Laravel---AdminLTE-3---Fortify"
-    - CodeIgniter 3 + SB Admin 2: "https://github.com/AaEzha/ci3-sbadmin2"
-    - Github: "https://github.com/AaEzha"
-  Portfolio: "https://nurfachmi.com"
+  # Open Source Projects:
+  #   - Laravel + SB Admin 2: "https://github.com/AaEzha/Laravel---SB-Admin-2---Fortify"
+  #   - Laravel + AdminLTE 3: "https://github.com/AaEzha/Laravel---AdminLTE-3---Fortify"
+  #   - CodeIgniter 3 + SB Admin 2: "https://github.com/AaEzha/ci3-sbadmin2"
+  #   - Github: "https://github.com/AaEzha"
+  # Portfolio: "https://nurfachmi.com"
   NOW: "now"
 
 # --- Logo --- #
@@ -82,7 +82,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "AaEzha.github.io"
+url-pretty: "reza.nurfachmi.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
