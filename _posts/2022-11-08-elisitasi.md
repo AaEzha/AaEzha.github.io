@@ -43,12 +43,19 @@ Sederhananya, proses elisitasi adalah proses eliminasi terhadap *requirements* d
 Biar gak bingung, mari kita lihat contohnya saja ya.
 
 1. Elisitasi Tahap 1
+
     ![Elisitasi Tahap 1](/assets/img/elisitasi-1.png)
+
 2. Elisitasi Tahap 2
+
     ![Elisitasi Tahap 2](/assets/img/elisitasi-2.png)
+
 3. Elisitasi Tahap 3
+
     ![Elisitasi Tahap 3](/assets/img/elisitasi-3.png)
+
 4. Final Draft Elisitasi
+
     ![Final Draft Elisitasi](/assets/img/elisitasi-final.png)
 
 Hasil di atas tentu belum final, karena masih sebagai Draft. Semuanya masih bisa diolah lagi, bahkan bisa berulang ke Tahap 1 lagi berdasarkan data pada Final Draft-nya.
