@@ -15,9 +15,11 @@ Elisitasi adalah seperangkat data terkait kebutuhan sistem baru dari aktivitas p
 Sederhananya, proses elisitasi adalah proses eliminasi terhadap *requirements* dari *user* melalui 3 tahap dan final elisitasi.
 
 1. Elisitasi Tahap 1
+
     Berisi seluruh rancangan sistem baru yang diusulkan oleh pihak manajemen terkait melalui proses wawancara.
 
 2. Elisitasi Tahap 2
+
     Merupakan hasil pengklasifikasian dari elisitasi tahap I berdasarkan metode MDI. Metode MDI ini bertujuan untuk memisahkan antara rancangan sistem yang penting dan harus ada pada sistem baru dengan rancangan yang disanggupi oleh penulis untuk dieksekusi.
 
     1. “M” pada MDI itu artinya ***Mandatory*** (penting). Maksudnya requirement tersebut harus ada dan tidak boleh dihilangkan pada saat membuat sistem baru.
@@ -25,6 +27,7 @@ Sederhananya, proses elisitasi adalah proses eliminasi terhadap *requirements* d
     3. “I” pada MDI itu artinya ***Inessential***. Maksudnya bahwa requirement tersebut bukanlah bagian dari sistem yang dibahas dan merupakan bagian dari luar sistem.
 
 3. Elisitasi Tahap 3
+
     Merupakan hasil penyusutan dari elisitasi tahap II dengancara mengeliminasi semua requirement yang optionnya I pada metode MDI. Selanjutnya semua requirement yang tersisa diklasifikasikan kembali melalui metode TOE, yaitu sebagai berikut:
 
     1. T artinya ***Technical***, maksudnya bagaimana tata cara/teknik pembuatan requirement tersebut dalam sistem yang diusulkan.
@@ -38,6 +41,7 @@ Sederhananya, proses elisitasi adalah proses eliminasi terhadap *requirements* d
     3. ***Low*** (L) : Mudah untuk dikerjakan.
 
 4. Final Draft Elisitasi
+
     Merupakan hasil akhir yang dicapai dari suatu proses elisitasi yang dapat digunakan sebagai dasar pembuatan suatu sistem yang akan dikembangkan.
 
 Biar gak bingung, mari kita lihat contohnya saja ya.
