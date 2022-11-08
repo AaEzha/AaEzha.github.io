@@ -26,6 +26,7 @@ Sederhananya, proses elisitasi adalah proses eliminasi terhadap *requirements* d
     2. “D” pada MDI itu artinya ***Desirable***. Maksudnya requirement tersebut tidak terlalu penting dan boleh dihilangkan. Tetapi jika requirement tersebut digunakan dalam pembuatan sistem, akan membuat sistem tersebut lebih sempurna.
     3. “I” pada MDI itu artinya ***Inessential***. Maksudnya bahwa requirement tersebut bukanlah bagian dari sistem yang dibahas dan merupakan bagian dari luar sistem.
 
+
 3. Elisitasi Tahap 3
 
     Merupakan hasil penyusutan dari elisitasi tahap II dengancara mengeliminasi semua requirement yang optionnya I pada metode MDI. Selanjutnya semua requirement yang tersisa diklasifikasikan kembali melalui metode TOE, yaitu sebagai berikut:
@@ -39,6 +40,7 @@ Sederhananya, proses elisitasi adalah proses eliminasi terhadap *requirements* d
     1. ***High*** (H) : Sulit untuk dikerjakan, karena tehnik pembuatan dan pemakaiannya sulit serta biayanya mahal, sehingga requirement tersebut harus dieliminasi.
     2. ***Middle*** (M) : Mampu untuk dikerjakan.
     3. ***Low*** (L) : Mudah untuk dikerjakan.
+
 
 4. Final Draft Elisitasi
 
