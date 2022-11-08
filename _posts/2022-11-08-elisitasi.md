@@ -2,9 +2,9 @@
 layout: post
 title: "Elisitasi"
 subtitle: Aa Ezha
-cover-img: /assets/img/analis.png
-share-img: /assets/img/analis.png
-thumbnail-img: /assets/img/analis.png
+cover-img: /assets/img/analis.jpg
+share-img: /assets/img/analis.jpg
+thumbnail-img: /assets/img/analis.jpg
 tags: [sistem, analis, elisitasi]
 ---
 
