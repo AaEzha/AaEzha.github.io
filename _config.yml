@@ -22,6 +22,7 @@ navbar-links:
   #   - Github: "https://github.com/AaEzha"
   # Portfolio: "https://nurfachmi.com"
   NOW: "now"
+  My Friends: "friends"
 
 # --- Logo --- #
 
@@ -51,7 +52,7 @@ social-network-links:
 # patreon: DeanAttali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: rezanurfachmi
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
