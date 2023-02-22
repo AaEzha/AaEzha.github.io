@@ -1,13 +1,13 @@
 ---
 layout: page
 title: NOW
-subtitle: What I am willing to do NOW?
+subtitle: Aku ingin apa?
 ---
 
-## 2 0 2 2
+- Bekerja niat ibadah dan nafkah untuk keluarga;
+- Tetap sehat ~~tampan~~ wal afiat;
+- Memiliki rumah;
+- Mengerjakan beberapa projek di [Nurfachmi](https://github.com/nurfachmi) dan [Siskom](https://github.com/siskom-org);
+- Ikut serta di beberapa projek _open source_ 
 
-- Work for my family and provide them
-- Stay healthy and fit
-- Buy a house
-- Working on Nurfachmi's charity projects
-- and several open source projects
+> Terakhir diubah 2023-02-22
