@@ -18,49 +18,19 @@ Setiap template pasti punya nama dan penulis beri nama untuk template ini adalah
 
 Tampilannya sesederhana ini
 
-<details>
-  <summary>Login</summary>
+### Login
 
-  ![Login](https://nurfachmi.com/img/nurfachmi/Login-admin.test.png)
+![Login](https://nurfachmi.com/img/nurfachmi/Login-admin.test.png)
   
-</details>
+### Roles
 
-<details>
-  <summary>Dashboard</summary>
-
-  ![Dashboard](https://nurfachmi.com/img/nurfachmi/home-admin.test.png)
-
-</details>
-
-<details>
-  <summary>Users</summary>
-
-  ![Users](https://nurfachmi.com/img/nurfachmi/users-admin.test.png)
+![Roles](https://nurfachmi.com/img/nurfachmi/roles-admin.test.png)
   
-</details>
+### CRUD Role
 
-<details>
-  <summary>CRUD User</summary>
-
-  ![CRUD User](https://nurfachmi.com/img/nurfachmi/newUser-admin.test.png)
+![CRUD Role](https://nurfachmi.com/img/nurfachmi/permissionsForModerator-admin.test.png)
   
-</details>
-
-<details>
-  <summary>Roles</summary>
-
-  ![Roles](https://nurfachmi.com/img/nurfachmi/roles-admin.test.png)
-  
-</details>
-
-<details>
-  <summary>CRUD Role</summary>
-
-  ![CRUD Role](https://nurfachmi.com/img/nurfachmi/permissionsForModerator-admin.test.png)
-  
-</details>
-
 ---
 
-Kalau mau tau lebih lengkap lagi, sok monggo aja ke [repositorinya langsung](https://github.com/brin-indonesia/admin-sederhana)
+Kalau mau tau lebih lengkap lagi, sok monggo aja ke [repositorinya langsung](https://github.com/brin-indonesia/admin-sederhana) ya. Fork, clone, dan buat PR yang mantap! Atau terserah kalian aja mau buat apa. Semoga bermanfaat yaa.
 
